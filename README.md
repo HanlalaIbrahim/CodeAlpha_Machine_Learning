@@ -7,6 +7,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Task 1: Credit Scoring Model](#task-1-credit-scoring-model)
+  - [Task 2: Disease Prediction Model](#task-2-disease-prediction-model)
 - [Contact](#contact)
 
 ## Introduction
@@ -21,6 +22,13 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used**: Data Preprocessing, Logistic Regression.
 - **Directory**: `Credit-Scoring-Model`
 - **Dataset**: [Credit Scoring Dataset](https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring)
+
+### Task 2: Disease Prediction Model
+
+- **Description**: Created a model to predict the likelihood of a disease based on medical data such as symptoms and patient history. Used labeled datasets with medical records and applied classification algorithms.
+- **Techniques Used**: Data Preprocessing, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines
+- **Directory**: `Disease-Prediction`
+- **Dataset**: [Medical Data Dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
 
 ## Contact
 
