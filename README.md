@@ -8,6 +8,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
 - [Projects](#projects)
   - [Task 1: Credit Scoring Model](#task-1-credit-scoring-model)
   - [Task 2: Disease Prediction Model](#task-2-disease-prediction-model)
+  - [Task 3: Emotion Recognition from Speech](#task-3-emotion-recognition-from-speech)
 - [Contact](#contact)
 
 ## Introduction
@@ -29,6 +30,15 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used**: Data Preprocessing, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines
 - **Directory**: `Disease-Prediction`
 - **Dataset**: [Medical Data Dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
+
+  
+### Task 3: Emotion Recognition from Speech
+
+- **Description**: Built a model that can recognize emotions in speech audio. Utilized deep learning and speech processing techniques to classify spoken sentences into different emotions like happiness, anger, or sadness.
+- **Techniques Used**: Deep Learning, Speech Processing
+- **Directory**: `emotion-recognition-from-speech`
+- **Dataset**: [Speech Emotion Dataset](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en)
+
 
 ## Contact
 
